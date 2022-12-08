@@ -1,4 +1,4 @@
-name: Gitee repos mirror periodic job
+name: kr
 
 on:
 #   push: # 有 push 代码的时候会执行
