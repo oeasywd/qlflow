@@ -7,7 +7,7 @@ on:
 #     branches: [ main ]
   schedule: 
     # 每3个小时跑一次
-    - cron:  '0 */3 * * *'
+    - cron:  '0 */1 * * *'
 
 jobs:
   build:
