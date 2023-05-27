@@ -6,7 +6,7 @@ name: active
 on:
   schedule: 
     # 每3个小时跑一次
-    - cron:  '0 3 */ * *'
+    - cron:  '0 3 * * *'
   # Triggers the workflow on push or pull request events but only for the "main" branch
 #   push:
 #     branches: [ "main" ]
