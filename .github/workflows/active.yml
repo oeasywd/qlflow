@@ -37,7 +37,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,test, and deploy your project.
-          touch 1.txt
+          #touch 1.txt
           echo “aaa” >> 1.txt
           
       - name: Commit changes
