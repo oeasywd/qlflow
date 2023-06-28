@@ -1,6 +1,7 @@
 name: kr
 
 on:
+  workflow_dispatch:
 #   push: # 有 push 代码的时候会执行
 #     branches: [ main ]
 #   pull_request: # 有 pull_request 代码的时候会执行
