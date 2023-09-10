@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Mirror the Github organization repos to Gitee.
-      uses: Yikun/hub-mirror-action@1.4
+      uses: Yikun/hub-mirror-action@v1.4
       with:
         src: github/leafTheFish # 必选，需要同步的Github用户（源）
         dst: gitee/wal_nut # 必选，需要同步到的Gitee的用户（目的）
