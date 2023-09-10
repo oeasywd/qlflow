@@ -1,4 +1,4 @@
-name: DeathNote
+name: DeathNote hub mirror action
 
 on: 
   workflow_dispatch:
